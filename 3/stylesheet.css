@@ -1,0 +1,33 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(69, 209, 202);
+    align-items: center;
+    width:fit-content;
+    position: relative;
+    left:50%;
+    right: 50%;
+
+}
+
+.container div{  
+    border: 1px;
+    border-radius: 10px;
+    margin:auto;
+    padding: 10px;
+    }
+
+.container .box-1 {
+    width:auto;
+    margin: 10px;
+}
+.container .box-2 {
+    width:auto; 
+    margin: 10px;
+}
+.container .box-3 {
+    width:auto;
+    margin: 10px;
+}
+
